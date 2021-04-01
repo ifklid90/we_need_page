@@ -1,5 +1,5 @@
 {
-	"version": "1.70.7",
+	"version": "1.70.8",
 	"description": "- добавлена возможность вводить адрес временной регистрацииы\n",
 	"location": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapitest.akbars.ru%2Fdsa_rb%2Fv1%2Fsystem%2Fdownload%2FPlist%2FRb%3Fkey%3DHZx8k%252BL02EjQE2B8x7wKmvKE%252FuM4O0rWHEY35Nnd4Z79cv5VTaqk5kkHDzlAdNFZyQEiySnopoh5Un91OUa4GLUpVOancrKO"
 }
